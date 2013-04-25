@@ -1,0 +1,53 @@
+Ga je mee iets drinken? ;Will you go with me to get something to drink?
+Ga je mee iets eten? ;Will you go with me to get something to eat?
+Zullen we iets gaan drinken? ;Shall we go drink something?
+Zullen we koffie gaan drinken? ;Shall we go drink coffee?
+Wil je iets drinken? ;Will you drink something?
+Zullen we met de fiets gaan? ;Shall we go cycling?
+Dat is mijne traktatie. ;That is my treat.
+Mag ik betallen? ;May I pay? -- settle the bill
+Mag ik de toiletten gaan? ;May I go to the toilet?
+Mag ik de kaart alstublieft? ;May I look at the menu please?
+Mag ik even bestellen? ;May I order?
+Mag ik een broodje kaas van u? ;May I get a bread with cheese from you?
+Ik wil graag een broodje kaas. ;I would like bread with cheese.
+Ik wil een kopje thee. ;I want a cup of tea.
+Kunt u mij helpen? ;Can you help me?
+Ik liever een biertje. ;I prefer a beer.
+Sorry, wat zegt u? ;Sorry, what do you say?
+Kunt u dat herhalen? ;Could you repeat that?
+Ik begrijp het niet. Kunt u het nog een keer zeggen? ;I don't understand. Could you say again?
+Wil je een beetje langzaam en duidelijk spreken? ;Would you speak a little slow and clearly?
+Nog een keer, alstjeblieft! ;One more time, please!
+Pardon, mevrouw, kunt u mij helpen? Kunt u het woord spellen? ;Pardon, madam, could you help me? Could you spell the word?
+Het is te moeilijk en snel. Wil je het nog een keer zeggen, maar meer langzaam en duidelijk alstjeblief? ;It is too difficult and fast. Will you say it again, but more slowly and clearly please?
+Wat betekent "YYY"? ;What does "YYY" mean?
+Wat is de bedoeling? ;What is the intention?
+Wat is de betekening? ;What is the meaning?
+Hoe zeg je "XXX"? ;How do you say "XXX"?
+Waar is het trein station? ;Where is the train station?
+Ik zoek het trein station. ;I seek the train station.
+Weet u misschien de weg naar het ziekenhuis? ;Do you perhaps know the way to the hospital?
+Weet u waar is de markt? ;Do you know where the market is?
+Het is niet zo ver. Het is vlaak bij. ;It is not so far. It is nearby.
+U gaat rechtdoor tot de stoplichten, aan uw linkerhand niet uw rechterhand, daar kunt u het station zien.;You go straight until the stoplight, on your lefthand size not your righthand side, there you can see the station.
+Bij het kruispunt linksaf moet u stoppen. ;By the intersection you must stop.
+Bij de rotonde moet u wachten. ;By the roundabout you must wait.
+Bij de eerste straat rechts ziet u een rode gebouw. ;Turn right into the first street and you see a red building.
+Je gaat hier rechts bij de tweede afslag rechtsaf. Het zwembad is aan jouw linkerhand. ;You go right from here into the second exit. The swimming pool is on your lefthand side.
+Doe de deur dicht! ;Close the door!
+Doe het raam open! ;Open the window!
+Wacht even! ;Wait!
+Kijk het meisje. ;See the girl.
+Vul het goede woord in. ;Fill the good word in.
+Kies het juiste alternatief. ;Choose the correct/exact alternative.
+Maak het antwoord negatief. ;Make the answer negative.
+Combineer de zinnen. ;Combine the sentences.
+Luister naar de docent. ;Listen to the teacher.
+Werk in tweetallen. ;Work in pairs.
+Schrijf een opstel over vriendschap. ;Write an essay about friendship.
+Maak de vragen compleet. ;Make the questions complete.
+Lees de tekst. ;Read the text.
+Zet in de goede volgorde. ;Put in good order.
+Gebruik ieder woord een keer. ;Use each word once.
+Onderstreep het separabele verba. ;Underline the separable verbs.
